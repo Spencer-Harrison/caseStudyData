@@ -1,0 +1,183 @@
+{
+  "BRANDS": [
+    {
+      "ID": 1,
+      "NAME": "Hasbro"
+    },
+    {
+      "ID": 2,
+      "NAME": "Ravensburger"
+    },
+    {
+      "ID": 3,
+      "NAME": "Fantasy Flight Games"
+    }
+  ],
+  "PRODUCTS": [
+    {
+      "ID": "p1",
+      "BRANDID": 1,
+      "PRODUCTNAME": "Monopoly",
+      "GRAPHICNAME": "monopoly.jpg",
+      "COSTPRICE": 14.99,
+      "MSRP": 19.99,
+      "QTYONHAND": 120,
+      "QTYONBACKORDER": 10,
+      "DESCRIPTION": "Monopoly is a classic board game where players roll two six-sIDed dice to move around the game board, buying and trading properties, and developing them with houses and hotels."
+    },
+    {
+      "ID": "p2",
+      "BRANDID": 1,
+      "PRODUCTNAME": "Risk",
+      "GRAPHICNAME": "risk.jpg",
+      "COSTPRICE": 19.99,
+      "MSRP": 28.99,
+      "QTYONHAND": 80,
+      "QTYONBACKORDER": 15,
+      "DESCRIPTION": "Risk is a strategy board game of diplomacy, conflict and conquest for two to six players, conquer territories and continents to achieve world domination."
+    },
+    {
+      "ID": "p3",
+      "BRANDID": 1,
+      "PRODUCTNAME": "Clue",
+      "GRAPHICNAME": "clue.jpg",
+      "COSTPRICE": 12.99,
+      "MSRP": 17.99,
+      "QTYONHAND": 100,
+      "QTYONBACKORDER": 8,
+      "DESCRIPTION": "Clue is a murder mystery game. Players must solve who was killed, with what weapon, and in what room. The player to correctly make the final accusation wins."
+    },
+    {
+      "ID": "p4",
+      "BRANDID": 1,
+      "PRODUCTNAME": "Battleship",
+      "GRAPHICNAME": "battleship.jpg",
+      "COSTPRICE": 15.99,
+      "MSRP": 21.99,
+      "QTYONHAND": 90,
+      "QTYONBACKORDER": 12,
+      "DESCRIPTION": "Battleship is a strategic guessing game. Players take turns calling out a row and column, attempting to NAME a square containing their opponent's ships."
+    },
+    {
+      "ID": "p5",
+      "BRANDID": 1,
+      "PRODUCTNAME": "Scrabble",
+      "GRAPHICNAME": "scrabble.jpg",
+      "COSTPRICE": 18.99,
+      "MSRP": 24.99,
+      "QTYONHAND": 110,
+      "QTYONBACKORDER": 6,
+      "DESCRIPTION": "Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a gameboard divIDed into a grID of squares."
+    },
+    {
+      "ID": "p6",
+      "BRANDID": 2,
+      "PRODUCTNAME": "Labyrinth",
+      "GRAPHICNAME": "labyrinth.jpg",
+      "COSTPRICE": 20.99,
+      "MSRP": 31.99,
+      "QTYONHAND": 100,
+      "QTYONBACKORDER": 5,
+      "DESCRIPTION": "Labyrinth is a maze themed adventure board game where players search the Labyrinth for treasures. This game is full of magical and addictive family fun."
+    },
+    {
+      "ID": "p7",
+      "BRANDID": 2,
+      "PRODUCTNAME": "Scotland Yard",
+      "GRAPHICNAME": "scotland_yard.jpg",
+      "COSTPRICE": 22.99,
+      "MSRP": 33.99,
+      "QTYONHAND": 95,
+      "QTYONBACKORDER": 10,
+      "DESCRIPTION": "Scotland Yard is a detective-themed board game where players work cooperatively to track down the mysterious Mr. X through the streets of London."
+    },
+    {
+      "ID": "p8",
+      "BRANDID": 2,
+      "PRODUCTNAME": "Villainous",
+      "GRAPHICNAME": "villainous.jpg",
+      "COSTPRICE": 26.99,
+      "MSRP": 39.99,
+      "QTYONHAND": 80,
+      "QTYONBACKORDER": 8,
+      "DESCRIPTION": "Villainous is a strategy board game where players take on the role of Disney villains. Each villain has different objectives to accomplish in order to win."
+    },
+    {
+      "ID": "p9",
+      "BRANDID": 2,
+      "PRODUCTNAME": "Castles of Burgundy",
+      "GRAPHICNAME": "castles_of_burgundy.jpg",
+      "COSTPRICE": 31.99,
+      "MSRP": 44.99,
+      "QTYONHAND": 70,
+      "QTYONBACKORDER": 5,
+      "DESCRIPTION": "Castles of Burgundy is a strategy board game set in medieval France. Players work to build settlements and powerful castles, practice trade, and obtain knowledge."
+    },
+    {
+      "ID": "p10",
+      "BRANDID": 2,
+      "PRODUCTNAME": "Ravensburger Puzzles",
+      "GRAPHICNAME": "ravensburger_puzzles.jpg",
+      "COSTPRICE": 10.99,
+      "MSRP": 15.99,
+      "QTYONHAND": 120,
+      "QTYONBACKORDER": 15,
+      "DESCRIPTION": "Ravensburger Puzzles offer a wIDe range of jigsaw puzzles with attention to detail and stunning pictures suitable for teenagers and adults."
+    },
+    {
+      "ID": "p11",
+      "BRANDID": 3,
+      "PRODUCTNAME": "Arkham Horror",
+      "GRAPHICNAME": "arkham_horror.jpg",
+      "COSTPRICE": 59.99,
+      "MSRP": 79.99,
+      "QTYONHAND": 65,
+      "QTYONBACKORDER": 8,
+      "DESCRIPTION": "Arkham Horror is a cooperative adventure board game, players choose from 16 Investigators and take to the streets of Arkham to battle monsters, solve mysteries and uncover ancient artefacts."
+    },
+    {
+      "ID": "p12",
+      "BRANDID": 3,
+      "PRODUCTNAME": "Eldritch Horror",
+      "GRAPHICNAME": "eldritch_horror.jpg",
+      "COSTPRICE": 57.99,
+      "MSRP": 76.99,
+      "QTYONHAND": 70,
+      "QTYONBACKORDER": 7,
+      "DESCRIPTION": "Eldritch Horror is a cooperative adventure board game in which players take on the role of globetrotting investigators, trying to solve mysteries and protect the world from an Ancient One."
+    },
+    {
+      "ID": "p13",
+      "BRANDID": 3,
+      "PRODUCTNAME": "Twilight Imperium",
+      "GRAPHICNAME": "twilight_imperium.jpg",
+      "COSTPRICE": 89.99,
+      "MSRP": 119.99,
+      "QTYONHAND": 50,
+      "QTYONBACKORDER": 5,
+      "DESCRIPTION": "Twilight Imperium is an epic strategy board game of galactic conquest. Players take command of one of seventeen factions vying for galactic domination through military, political, and economic means."
+    },
+    {
+      "ID": "p14",
+      "BRANDID": 3,
+      "PRODUCTNAME": "KeyForge",
+      "GRAPHICNAME": "keyforge.jpg",
+      "COSTPRICE": 9.99,
+      "MSRP": 13.99,
+      "QTYONHAND": 130,
+      "QTYONBACKORDER": 20,
+      "DESCRIPTION": "KeyForge is a unique deck card game where players take on the role of Archons in a race to unlock the hIDden Vaults of the Crucible. Each deck is unique and offers a different play experience."
+    },
+    {
+      "ID": "p15",
+      "BRANDID": 3,
+      "PRODUCTNAME": "X-Wing Miniatures Game",
+      "GRAPHICNAME": "x_wing_miniatures.jpg",
+      "COSTPRICE": 29.99,
+      "MSRP": 39.99,
+      "QTYONHAND": 80,
+      "QTYONBACKORDER": 12,
+      "DESCRIPTION": "X-Wing Miniatures Game is a tactical ship-to-ship combat game in which players take control of powerful Rebel X-wings and nimble Imperial TIE fighters, facing them against each other in fast-paced space combat."
+    }
+  ]
+}
